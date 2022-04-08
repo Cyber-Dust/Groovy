@@ -1,0 +1,49 @@
+.cent {
+    padding-bottom: 500px;
+    font-family: 'Bungee Shade', cursive;
+    font-size: 10em;
+}
+
+.love {
+    font-size: 7em;
+}
+
+h1 {
+    font-family: 'Comfortaa', cursive;
+    font-family: 'Libre Caslon Text', serif;
+    font-family: 'Marck Script', cursive;
+    font-size: 15em;
+    padding: 50px;
+    text-align: center;
+}
+
+body {
+    /* background: linear-gradient(#6f83d6, #2c3282); */
+    background: url(IMG/ashlynn-murphy-14VMcvjKCt8-unsplash.jpg);
+    background-size: cover;
+    /* background-repeat: no-repeat;
+    text-align: center; */
+}
+
+p {
+    text-align: center;
+}
+
+#pic {
+    display: flex;
+    margin: auto;
+    width: 600px;
+    height: 650px;
+    justify-content: space-evenly;
+    padding: 50px;
+}
+
+
+/* [class*="col-sm"] {
+    padding: 1rem;
+    border: 2px solid green;
+    color: antiquewhite;
+    text-align: center;
+    height: 400px;
+    margin: 50px;
+} */
