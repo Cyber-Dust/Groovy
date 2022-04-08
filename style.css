@@ -8,10 +8,12 @@
     font-size: 7em;
 }
 
-h1 {
-    font-family: 'Comfortaa', cursive;
+.container fluid h1 {
+    /* font-family: 'Comfortaa', cursive;
     font-family: 'Libre Caslon Text', serif;
-    font-family: 'Marck Script', cursive;
+    font-family: 'Marck Script', cursive; */
+    font-family: 'Grape Nuts', cursive;
+    font-family: 'Syncopate', sans-serif;
     font-size: 15em;
     padding: 50px;
     text-align: center;
