@@ -1,11 +1,7 @@
 .cent {
-    padding-bottom: 500px;
+    padding: 50px;
     font-family: 'Bungee Shade', cursive;
-    font-size: 10em;
-}
-
-.love {
-    font-size: 7em;
+    font-size: 5em;
 }
 
 .container fluid h1 {
@@ -39,6 +35,7 @@ p {
     justify-content: space-evenly;
     padding: 50px;
     object-fit: cover;
+    border-radius: 12px;
 }
 
 h2 {
