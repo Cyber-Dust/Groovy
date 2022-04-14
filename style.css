@@ -42,6 +42,23 @@ h2 {
     text-align: center;
 }
 
+.jumbotron {
+    text-align: center;
+}
+
+#edit {
+    background: -webkit-linear-gradient(#eee, #333);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+#title {
+    font-family: griffon, serif;
+    font-weight: 400;
+    font-style: normal;
+    padding-top: 15px;
+}
+
 
 /* [class*="col-sm"] {
     padding: 1rem;
